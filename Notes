@@ -1,0 +1,3 @@
+soe_RK4.c ----> Take array from function using a pointer
+
+soe_RK4_v2.c ----> Insert array in function and make changes. Nothing for the function to return.
